@@ -27,3 +27,26 @@ NullPointerException -> 14
 
 data modelling
 -avoid wide table
+
+
+applet
+type of exception
+garbage collector
+rmi architecture
+dgc
+
+traveloka
+bukalapak
+tokopedia
+happy fresh
+halodoc
+shopee
+google
+microsoft
+grab
+oracle
+gojek
+meta
+apple
+garena
+astra international
