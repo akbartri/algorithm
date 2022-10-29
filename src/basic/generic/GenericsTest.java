@@ -43,6 +43,9 @@ public class GenericsTest {
         stringList.add("Akbar!!");
         printList(stringList);
 
+        List<Apple> appleList = new ArrayList<>();
+        appleList.add(new Apple());
+        printList(appleList);
     }
 
     //generics in method

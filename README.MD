@@ -15,14 +15,14 @@ elastic search
 
 3:06 event driven microservices
 
-new switch -> 12
-new instancof -> 14
-text blocks -> 15
-var -> 10
-records -> 14
-sealed classes -> 17
 of for collections -> 9
+var -> 10
+new switch -> 12
+new instanceof -> 14
+records -> 14
 NullPointerException -> 14
+text blocks -> 15
+sealed classes -> 17
 
 
 data modelling

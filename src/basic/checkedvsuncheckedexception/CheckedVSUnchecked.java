@@ -24,7 +24,7 @@ public class CheckedVSUnchecked {
 //        readFileFunction(nameFile);
 
         //example of unchecked exception
-        Integer angka = Integer.parseInt("0");
+        Integer angka = Integer.parseInt("q");
         System.out.println(angka);
 
         //jika string nya tidak mengandung angka / null, maka saat di parsing akan muncul exception

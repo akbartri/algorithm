@@ -1,0 +1,8 @@
+creator structural behavioural = design pattern
+
+time or space complexity
+
+dynammic programming solve :
+1. recursion
+2. store (memoize)
+3. bottom-up
